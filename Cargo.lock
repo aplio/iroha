@@ -4245,6 +4245,7 @@ dependencies = [
  "parity-scale-codec",
  "serde",
  "serde_json",
+ "supports-color 2.1.0",
  "test_samples",
 ]
 
